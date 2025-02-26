@@ -1,0 +1,10 @@
+# Required dependencies
+pyspark
+numpy
+pandas
+matplotlib
+wordcloud
+
+# Optional dependencies (for additional visualization and Spark setup)
+seaborn  # Optional: Used for enhanced visualizations
+findspark  # Optional: Helps find Spark if not configured globally
